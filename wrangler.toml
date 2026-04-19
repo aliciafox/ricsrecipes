@@ -4,4 +4,4 @@ pages_build_output_dir = "."
 
 [[kv_namespaces]]
 binding = "RECIPES_KV"
-id = "REPLACE_WITH_YOUR_KV_ID"
+id = "acacf73d938a411798b59531d2c449b6"
